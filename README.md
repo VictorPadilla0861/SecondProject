@@ -1,2 +1,2 @@
-# SecondProject
- Second Website Project
+# MySecondProject
+ My second project
